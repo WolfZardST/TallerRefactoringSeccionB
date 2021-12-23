@@ -10,4 +10,9 @@ public class Scissors extends Choice {
         return null;
     }
     
+    @Override
+    public String toString() {
+        return "Scissors";
+    }
+    
 }

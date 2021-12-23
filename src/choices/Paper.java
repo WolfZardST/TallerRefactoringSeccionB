@@ -10,4 +10,9 @@ public class Paper extends Choice {
         return null;
     }
     
+    @Override
+    public String toString() {
+        return "Paper";
+    }
+    
 }

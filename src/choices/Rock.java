@@ -10,4 +10,9 @@ public class Rock extends Choice {
         return null;
     }
     
+    @Override
+    public String toString() {
+        return "Rock";
+    }
+    
 }
